@@ -14,6 +14,7 @@ repositories {
 
     maven("https://jitpack.io")
     maven("https://oss.sonatype.org/content/repositories/snapshots")
+    maven("https://repo.civmc.net/repository/maven-public/")
 }
 
 dependencies {
